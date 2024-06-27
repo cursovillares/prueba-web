@@ -1,0 +1,22 @@
+.row{
+    
+    text-align: center;
+    
+}
+.col-6,.col{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+div.foto{
+    background-size: cover;
+    background-image: url("https://fotografias.lasexta.com/clipping/cmsimages02/2022/08/19/645D3D0E-DEB1-47AF-BFED-E04DE8FCE8FD/puesta-sol-playa_104.jpg?crop=1280,1280,x322,y0&width=1200&height=1200&optimize=low&format=webply");
+    background-repeat: no-repeat;
+}
+div{
+    margin-bottom: 50px;
+}
+div#fondoAcordeon{
+    background-color: rgb(81, 80, 80);
+    padding: 20px;
+}
